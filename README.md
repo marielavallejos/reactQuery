@@ -1,2 +1,2 @@
-# reactQuery
-Curso de Fernando Herrera 
+# React Query 
+Curso de de {dev/talles), creador Fernando Herrera 
